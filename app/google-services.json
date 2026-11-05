@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926941207759",
+    "project_id": "apprickmorty-ad219",
+    "storage_bucket": "apprickmorty-ad219.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926941207759:android:510159683696b4dc9c2bba",
+        "android_client_info": {
+          "package_name": "com.danidev.apprickmorty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdC9cw376I6dN39XtfxCT8EjJGEdpleD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
